@@ -1,0 +1,129 @@
+﻿<Window
+    x:Class="ColoClock.SettingWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:ColoClock"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="TASK"
+    Width="439.786"
+    Height="304.756"
+    AllowsTransparency="True"
+    Background="#BF000000"
+    MouseLeftButtonDown="Window_MouseLeftButtonDown"
+    ScrollViewer.VerticalScrollBarVisibility="Disabled"
+    WindowStyle="None"
+    mc:Ignorable="d">
+    <Grid
+        x:Name="grid_Main"
+        Margin="0,0,0,-0.2"
+        ScrollViewer.HorizontalScrollBarVisibility="Auto">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Grid x:Name="grid_Title" Margin="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition Width="30" />
+            </Grid.ColumnDefinitions>
+            <Button
+                x:Name="btn_Close"
+                Grid.Column="2"
+                Margin="1,0,0.4,0.4"
+                Background="#4C000000"
+                BorderBrush="{x:Null}"
+                Click="btn_Close_Click"
+                Content="X"
+                FontSize="14"
+                FontWeight="Bold"
+                Foreground="Red"
+                Style="{StaticResource BUTTON}">
+                <Button.Template>
+                    <ControlTemplate TargetType="{x:Type ButtonBase}">
+                        <Border
+                            x:Name="border"
+                            Background="{TemplateBinding Background}"
+                            BorderBrush="{TemplateBinding BorderBrush}"
+                            BorderThickness="{TemplateBinding BorderThickness}"
+                            SnapsToDevicePixels="True">
+                            <ContentPresenter
+                                x:Name="contentPresenter"
+                                Margin="{TemplateBinding Padding}"
+                                HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"
+                                VerticalAlignment="{TemplateBinding VerticalContentAlignment}"
+                                Content="{TemplateBinding Content}"
+                                ContentStringFormat="{TemplateBinding ContentStringFormat}"
+                                ContentTemplate="{TemplateBinding ContentTemplate}"
+                                Focusable="False"
+                                RecognizesAccessKey="True"
+                                SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" />
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Label
+                x:Name="lab_Title"
+                Width="176"
+                Height="30"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                Content="Setting"
+                FontSize="18"
+                FontWeight="Bold"
+                Foreground="White" />
+        </Grid>
+        <Grid
+            x:Name="grid_Settings"
+            Grid.RowSpan="2"
+            Margin="0,30,0,-0.2"
+            Background="#00000000">
+            <Button
+                x:Name="btn_Confirm"
+                Width="65"
+                Height="27"
+                Margin="0,0,10,10"
+                HorizontalAlignment="Right"
+                VerticalAlignment="Bottom"
+                Background="{x:Null}"
+                BorderBrush="White"
+                Click="btn_Confirm_Click"
+                Content="Confirm"
+                Foreground="White"
+                Style="{StaticResource BUTTON}" />
+            <Button
+                x:Name="btn_add_pic"
+                Width="420"
+                Height="26"
+                Margin="10,10,0,0"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                Click="Btn_add_pic_Click"
+                Content="添加背景图片"
+                Foreground="White"
+                Style="{StaticResource BUTTON}" />
+            <TextBox
+                x:Name="txt_Music_Path"
+                Width="321"
+                Height="22"
+                Margin="109,45,0,0"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                Background="{x:Null}"
+                BorderBrush="White"
+                Foreground="White"
+                MouseDoubleClick="Txt_Music_Path_MouseDoubleClick"
+                TextWrapping="Wrap" />
+            <Label
+                x:Name="lab_Music_Path"
+                Width="94"
+                Height="26"
+                Margin="10,45,0,0"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                Content="背景音乐路径"
+                Foreground="White"
+                Style="{StaticResource LABLE}" />
+        </Grid>
+    </Grid>
+</Window>

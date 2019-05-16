@@ -1,0 +1,51 @@
+F:\Projects\ColoClock\ColoClock\bin\Debug\ColoClock.exe
+F:\Projects\ColoClock\ColoClock\bin\Debug\ColoClock.exe.config
+F:\Projects\ColoClock\ColoClock\obj\Debug\MainWindow.g.cs
+F:\Projects\ColoClock\ColoClock\obj\Debug\App.g.cs
+F:\Projects\ColoClock\ColoClock\obj\Debug\ColoClock_MarkupCompile.cache
+F:\Projects\ColoClock\ColoClock\obj\Debug\ColoClock_MarkupCompile.lref
+F:\Projects\ColoClock\ColoClock\obj\Debug\App.baml
+F:\Projects\ColoClock\ColoClock\obj\Debug\ControlStyles.baml
+F:\Projects\ColoClock\ColoClock\obj\Debug\MainWindow.baml
+F:\Projects\ColoClock\ColoClock\obj\Debug\ColoClock.g.resources
+F:\Projects\ColoClock\ColoClock\obj\Debug\ColoClock.Properties.Resources.resources
+F:\Projects\ColoClock\ColoClock\obj\Debug\ColoClock.csproj.GenerateResource.cache
+F:\Projects\ColoClock\ColoClock\obj\Debug\ColoClock.csproj.CoreCompileInputs.cache
+F:\Projects\ColoClock\ColoClock\obj\Debug\ColoClock.exe
+F:\Projects\ColoClock\ColoClock\obj\Debug\ColoClock.pdb
+F:\Projects\ColoClock\ColoClock\bin\Debug\ColoClock.pdb
+F:\Projects\ColoClock\ColoClock\obj\Debug\ColoClock.csprojAssemblyReference.cache
+D:\ColoClock -决赛\源码\ColoClock\bin\Debug\ColoClock.exe.config
+D:\ColoClock -决赛\源码\ColoClock\bin\Debug\ColoClock.exe
+D:\ColoClock -决赛\源码\ColoClock\bin\Debug\ColoClock.pdb
+D:\ColoClock -决赛\源码\ColoClock\obj\Debug\ColoClock.csprojAssemblyReference.cache
+D:\ColoClock -决赛\源码\ColoClock\obj\Debug\MainWindow.g.cs
+D:\ColoClock -决赛\源码\ColoClock\obj\Debug\App.g.cs
+D:\ColoClock -决赛\源码\ColoClock\obj\Debug\ColoClock_MarkupCompile.cache
+D:\ColoClock -决赛\源码\ColoClock\obj\Debug\ColoClock_MarkupCompile.lref
+D:\ColoClock -决赛\源码\ColoClock\obj\Debug\App.baml
+D:\ColoClock -决赛\源码\ColoClock\obj\Debug\ControlStyles.baml
+D:\ColoClock -决赛\源码\ColoClock\obj\Debug\MainWindow.baml
+D:\ColoClock -决赛\源码\ColoClock\obj\Debug\ColoClock.g.resources
+D:\ColoClock -决赛\源码\ColoClock\obj\Debug\ColoClock.Properties.Resources.resources
+D:\ColoClock -决赛\源码\ColoClock\obj\Debug\ColoClock.csproj.GenerateResource.cache
+D:\ColoClock -决赛\源码\ColoClock\obj\Debug\ColoClock.csproj.CoreCompileInputs.cache
+D:\ColoClock -决赛\源码\ColoClock\obj\Debug\ColoClock.exe
+D:\ColoClock -决赛\源码\ColoClock\obj\Debug\ColoClock.pdb
+F:\Projects\C# Projects\ColoClock\ColoClock\bin\Debug\ColoClock.exe.config
+F:\Projects\C# Projects\ColoClock\ColoClock\bin\Debug\ColoClock.exe
+F:\Projects\C# Projects\ColoClock\ColoClock\bin\Debug\ColoClock.pdb
+F:\Projects\C# Projects\ColoClock\ColoClock\obj\Debug\ColoClock.csprojAssemblyReference.cache
+F:\Projects\C# Projects\ColoClock\ColoClock\obj\Debug\MainWindow.g.cs
+F:\Projects\C# Projects\ColoClock\ColoClock\obj\Debug\App.g.cs
+F:\Projects\C# Projects\ColoClock\ColoClock\obj\Debug\ColoClock_MarkupCompile.cache
+F:\Projects\C# Projects\ColoClock\ColoClock\obj\Debug\ColoClock_MarkupCompile.lref
+F:\Projects\C# Projects\ColoClock\ColoClock\obj\Debug\App.baml
+F:\Projects\C# Projects\ColoClock\ColoClock\obj\Debug\ControlStyles.baml
+F:\Projects\C# Projects\ColoClock\ColoClock\obj\Debug\MainWindow.baml
+F:\Projects\C# Projects\ColoClock\ColoClock\obj\Debug\ColoClock.g.resources
+F:\Projects\C# Projects\ColoClock\ColoClock\obj\Debug\ColoClock.Properties.Resources.resources
+F:\Projects\C# Projects\ColoClock\ColoClock\obj\Debug\ColoClock.csproj.GenerateResource.cache
+F:\Projects\C# Projects\ColoClock\ColoClock\obj\Debug\ColoClock.csproj.CoreCompileInputs.cache
+F:\Projects\C# Projects\ColoClock\ColoClock\obj\Debug\ColoClock.exe
+F:\Projects\C# Projects\ColoClock\ColoClock\obj\Debug\ColoClock.pdb

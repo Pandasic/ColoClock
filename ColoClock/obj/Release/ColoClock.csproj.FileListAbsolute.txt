@@ -1,0 +1,51 @@
+F:\Projects\ColoClock\ColoClock\bin\Release\ColoClock.exe.config
+F:\Projects\ColoClock\ColoClock\bin\Release\ColoClock.exe
+F:\Projects\ColoClock\ColoClock\bin\Release\ColoClock.pdb
+F:\Projects\ColoClock\ColoClock\obj\Release\MainWindow.g.cs
+F:\Projects\ColoClock\ColoClock\obj\Release\App.g.cs
+F:\Projects\ColoClock\ColoClock\obj\Release\ColoClock_MarkupCompile.cache
+F:\Projects\ColoClock\ColoClock\obj\Release\ColoClock_MarkupCompile.lref
+F:\Projects\ColoClock\ColoClock\obj\Release\App.baml
+F:\Projects\ColoClock\ColoClock\obj\Release\ControlStyles.baml
+F:\Projects\ColoClock\ColoClock\obj\Release\MainWindow.baml
+F:\Projects\ColoClock\ColoClock\obj\Release\ColoClock.g.resources
+F:\Projects\ColoClock\ColoClock\obj\Release\ColoClock.Properties.Resources.resources
+F:\Projects\ColoClock\ColoClock\obj\Release\ColoClock.csproj.GenerateResource.cache
+F:\Projects\ColoClock\ColoClock\obj\Release\ColoClock.csproj.CoreCompileInputs.cache
+F:\Projects\ColoClock\ColoClock\obj\Release\ColoClock.exe
+F:\Projects\ColoClock\ColoClock\obj\Release\ColoClock.pdb
+F:\Projects\ColoClock\ColoClock\obj\Release\ColoClock.csprojAssemblyReference.cache
+D:\ColoClock -决赛\ColoClock\ColoClock\bin\Release\ColoClock.exe.config
+D:\ColoClock -决赛\ColoClock\ColoClock\bin\Release\ColoClock.exe
+D:\ColoClock -决赛\ColoClock\ColoClock\bin\Release\ColoClock.pdb
+D:\ColoClock -决赛\ColoClock\ColoClock\obj\Release\ColoClock.csprojAssemblyReference.cache
+D:\ColoClock -决赛\ColoClock\ColoClock\obj\Release\MainWindow.g.cs
+D:\ColoClock -决赛\ColoClock\ColoClock\obj\Release\App.g.cs
+D:\ColoClock -决赛\ColoClock\ColoClock\obj\Release\ColoClock_MarkupCompile.cache
+D:\ColoClock -决赛\ColoClock\ColoClock\obj\Release\ColoClock_MarkupCompile.lref
+D:\ColoClock -决赛\ColoClock\ColoClock\obj\Release\App.baml
+D:\ColoClock -决赛\ColoClock\ColoClock\obj\Release\ControlStyles.baml
+D:\ColoClock -决赛\ColoClock\ColoClock\obj\Release\MainWindow.baml
+D:\ColoClock -决赛\ColoClock\ColoClock\obj\Release\ColoClock.g.resources
+D:\ColoClock -决赛\ColoClock\ColoClock\obj\Release\ColoClock.Properties.Resources.resources
+D:\ColoClock -决赛\ColoClock\ColoClock\obj\Release\ColoClock.csproj.GenerateResource.cache
+D:\ColoClock -决赛\ColoClock\ColoClock\obj\Release\ColoClock.csproj.CoreCompileInputs.cache
+D:\ColoClock -决赛\ColoClock\ColoClock\obj\Release\ColoClock.exe
+D:\ColoClock -决赛\ColoClock\ColoClock\obj\Release\ColoClock.pdb
+D:\ColoClock -决赛\源码\ColoClock\bin\Release\ColoClock.exe.config
+D:\ColoClock -决赛\源码\ColoClock\bin\Release\ColoClock.exe
+D:\ColoClock -决赛\源码\ColoClock\bin\Release\ColoClock.pdb
+D:\ColoClock -决赛\源码\ColoClock\obj\Release\ColoClock.csprojAssemblyReference.cache
+D:\ColoClock -决赛\源码\ColoClock\obj\Release\MainWindow.g.cs
+D:\ColoClock -决赛\源码\ColoClock\obj\Release\App.g.cs
+D:\ColoClock -决赛\源码\ColoClock\obj\Release\ColoClock_MarkupCompile.cache
+D:\ColoClock -决赛\源码\ColoClock\obj\Release\ColoClock_MarkupCompile.lref
+D:\ColoClock -决赛\源码\ColoClock\obj\Release\App.baml
+D:\ColoClock -决赛\源码\ColoClock\obj\Release\ControlStyles.baml
+D:\ColoClock -决赛\源码\ColoClock\obj\Release\MainWindow.baml
+D:\ColoClock -决赛\源码\ColoClock\obj\Release\ColoClock.g.resources
+D:\ColoClock -决赛\源码\ColoClock\obj\Release\ColoClock.Properties.Resources.resources
+D:\ColoClock -决赛\源码\ColoClock\obj\Release\ColoClock.csproj.GenerateResource.cache
+D:\ColoClock -决赛\源码\ColoClock\obj\Release\ColoClock.csproj.CoreCompileInputs.cache
+D:\ColoClock -决赛\源码\ColoClock\obj\Release\ColoClock.exe
+D:\ColoClock -决赛\源码\ColoClock\obj\Release\ColoClock.pdb
