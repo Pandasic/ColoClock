@@ -571,7 +571,7 @@ namespace ColoClock
                 for (int i = 0; i < list_tasks.Count; i++)
                 {
                     Grid grid = list_tasks[i].bindGrid;
-                    grid.Margin = new Thickness(0, grid.Height * (grid_Tasks.Children.Count - 2), 0, 0);
+                    grid.Margin = new Thickness(0, grid.Height * (i), 0, 0);
                 }
                 grid_Task_Add.Margin = new Thickness(0, chosenTask.bindGrid.Height * (grid_Tasks.Children.Count - 1), 0, 0);
                 HideSettingGrid();
